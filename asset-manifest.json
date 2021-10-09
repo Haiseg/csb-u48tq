@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://haiseg.github.io/csb-u48tq/static/css/main.249edbc4.chunk.css",
+    "main.js": "https://haiseg.github.io/csb-u48tq/static/js/main.38dc4fe9.chunk.js",
+    "main.js.map": "https://haiseg.github.io/csb-u48tq/static/js/main.38dc4fe9.chunk.js.map",
+    "runtime-main.js": "https://haiseg.github.io/csb-u48tq/static/js/runtime-main.8acc4131.js",
+    "runtime-main.js.map": "https://haiseg.github.io/csb-u48tq/static/js/runtime-main.8acc4131.js.map",
+    "static/js/2.ede0cda0.chunk.js": "https://haiseg.github.io/csb-u48tq/static/js/2.ede0cda0.chunk.js",
+    "static/js/2.ede0cda0.chunk.js.map": "https://haiseg.github.io/csb-u48tq/static/js/2.ede0cda0.chunk.js.map",
+    "index.html": "https://haiseg.github.io/csb-u48tq/index.html",
+    "static/css/main.249edbc4.chunk.css.map": "https://haiseg.github.io/csb-u48tq/static/css/main.249edbc4.chunk.css.map",
+    "static/js/2.ede0cda0.chunk.js.LICENSE.txt": "https://haiseg.github.io/csb-u48tq/static/js/2.ede0cda0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8acc4131.js",
+    "static/js/2.ede0cda0.chunk.js",
+    "static/css/main.249edbc4.chunk.css",
+    "static/js/main.38dc4fe9.chunk.js"
+  ]
+}
